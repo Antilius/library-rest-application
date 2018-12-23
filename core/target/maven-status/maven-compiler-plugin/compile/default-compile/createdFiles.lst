@@ -1,0 +1,11 @@
+pl/umcs/Repositories/LenderRepository.class
+pl/umcs/Controllers/BookLendingsController.class
+pl/umcs/Services/BookService.class
+pl/umcs/Repositories/BookRepository.class
+pl/umcs/Services/LenderService.class
+pl/umcs/Controllers/BooksController.class
+pl/umcs/Controllers/LendersController.class
+pl/umcs/Services/BookService$1.class
+pl/umcs/Services/BookLendingService.class
+pl/umcs/Repositories/BookLendingRepository.class
+pl/umcs/EurekaConsumerBookApplication.class

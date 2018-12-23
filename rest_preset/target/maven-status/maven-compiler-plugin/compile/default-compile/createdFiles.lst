@@ -1,0 +1,10 @@
+pl/umcs/BookLendings/strategyImpl/CreateBookLendingExpiredPreset.class
+pl/umcs/Lenders/LenderGenerator.class
+pl/umcs/PresetLoaderApplication.class
+pl/umcs/Lenders/strategyImpl/CreateJanKowalski.class
+pl/umcs/BookGenerator.class
+pl/umcs/Lenders/strategyImpl/CreateEmiliaNowak.class
+pl/umcs/BookLendings/BookLendingGenerator.class
+pl/umcs/BookLendings/strategyImpl/LenderUpdatingStrategy.class
+pl/umcs/Lenders/strategyImpl/LenderRecordCreator.class
+pl/umcs/BookLendings/strategyImpl/CreateBookLendingUnreturnedPreset.class

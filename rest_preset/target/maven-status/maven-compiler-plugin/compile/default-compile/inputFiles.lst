@@ -1,0 +1,10 @@
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/BookLendings/strategyImpl/CreateBookLendingUnreturnedPreset.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/Lenders/strategyImpl/LenderRecordCreator.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/Lenders/LenderGenerator.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/BookLendings/strategyImpl/CreateBookLendingExpiredPreset.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/PresetLoaderApplication.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/BookLendings/strategyImpl/LenderUpdatingStrategy.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/BookLendings/BookLendingGenerator.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/BookGenerator.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/Lenders/strategyImpl/CreateJanKowalski.java
+/home/antilius/IntellIJProjects/library/rest_preset/src/main/java/pl/umcs/Lenders/strategyImpl/CreateEmiliaNowak.java

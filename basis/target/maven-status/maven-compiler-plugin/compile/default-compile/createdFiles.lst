@@ -1,0 +1,5 @@
+pl/umcs/basis/booklendinginfo/BookLending.class
+pl/umcs/basis/bookinfo/BookRarity.class
+pl/umcs/basis/lenderinfo/Lender.class
+pl/umcs/basis/bookinfo/BookAvailability.class
+pl/umcs/basis/bookinfo/Book.class

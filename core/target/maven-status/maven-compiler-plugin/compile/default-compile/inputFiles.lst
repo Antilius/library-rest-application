@@ -1,0 +1,10 @@
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Controllers/BooksController.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Controllers/LendersController.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/EurekaConsumerBookApplication.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Services/LenderService.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Repositories/BookLendingRepository.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Repositories/BookRepository.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Services/BookService.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Controllers/BookLendingsController.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Services/BookLendingService.java
+/home/antilius/IntellIJProjects/library/core/src/main/java/pl/umcs/Repositories/LenderRepository.java
