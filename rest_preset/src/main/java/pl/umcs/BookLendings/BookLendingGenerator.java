@@ -29,8 +29,8 @@ public class BookLendingGenerator{
 
     private void putLenderWithUpdatedBookLendingToDatabase(Lender lender){
         HttpEntity<Lender> request = new HttpEntity<>(lender);
-        ResponseEntity<BookLending> response = restTemplate
-                .exchange(URL_TO_LOAD_LENDERS, PUT, request, BookLending.class);
+        ResponseEntity<Lender> response = restTemplate
+                .exchange(URL_TO_LOAD_LENDERS, PUT, request, Lender.class);
     }
 
     private void putBookLendingToLenderAndBook(Lender lender, Book book, LenderUpdatingStrategy updatingStrategy){
